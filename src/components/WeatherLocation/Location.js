@@ -5,7 +5,7 @@ import './styles.css';
 const Location = ({city}) => (  //Destructuring
     /* const {city} = props; //Destructuring */
  <div className='LocationCont' >
-     <h1> {city} </h1>
+     <h2> {city} </h2>
  </div> 
 );
 
